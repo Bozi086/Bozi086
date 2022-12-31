@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on programing
-- 📫 How to reach me, mbbozovic@gmail.com, twiter --- Milos Bozovic @mbbozovic.
+- 📫 How to reach me, mbbozovic@gmail.com, Twitter --- Milos Bozovic @mbbozovic.
 
 <!---
 Bozi086/Bozi086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
